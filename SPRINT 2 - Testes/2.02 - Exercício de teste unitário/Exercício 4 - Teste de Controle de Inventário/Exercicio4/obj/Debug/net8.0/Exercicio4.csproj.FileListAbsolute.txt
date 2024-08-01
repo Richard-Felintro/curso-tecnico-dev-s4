@@ -1,0 +1,15 @@
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\2.02 - Exercício de teste unitário\Exercício 4 - Teste de Controle de Inventário\Exercicio4\obj\Debug\net8.0\Exercicio4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\2.02 - Exercício de teste unitário\Exercício 4 - Teste de Controle de Inventário\Exercicio4\obj\Debug\net8.0\Exercicio4.AssemblyInfoInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\2.02 - Exercício de teste unitário\Exercício 4 - Teste de Controle de Inventário\Exercicio4\obj\Debug\net8.0\Exercicio4.AssemblyInfo.cs
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\2.02 - Exercício de teste unitário\Exercício 4 - Teste de Controle de Inventário\Exercicio4\obj\Debug\net8.0\Exercicio4.csproj.CoreCompileInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\2.02 - Exercício de teste unitário\Exercício 4 - Teste de Controle de Inventário\Exercicio4\obj\Debug\net8.0\Exercicio4.sourcelink.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\2.02 - Exercício de teste unitário\Exercício 4 - Teste de Controle de Inventário\Exercicio4\bin\Debug\net8.0\Exercicio4.exe
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\2.02 - Exercício de teste unitário\Exercício 4 - Teste de Controle de Inventário\Exercicio4\bin\Debug\net8.0\Exercicio4.deps.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\2.02 - Exercício de teste unitário\Exercício 4 - Teste de Controle de Inventário\Exercicio4\bin\Debug\net8.0\Exercicio4.runtimeconfig.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\2.02 - Exercício de teste unitário\Exercício 4 - Teste de Controle de Inventário\Exercicio4\bin\Debug\net8.0\Exercicio4.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\2.02 - Exercício de teste unitário\Exercício 4 - Teste de Controle de Inventário\Exercicio4\bin\Debug\net8.0\Exercicio4.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\2.02 - Exercício de teste unitário\Exercício 4 - Teste de Controle de Inventário\Exercicio4\obj\Debug\net8.0\Exercicio4.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\2.02 - Exercício de teste unitário\Exercício 4 - Teste de Controle de Inventário\Exercicio4\obj\Debug\net8.0\refint\Exercicio4.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\2.02 - Exercício de teste unitário\Exercício 4 - Teste de Controle de Inventário\Exercicio4\obj\Debug\net8.0\Exercicio4.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\2.02 - Exercício de teste unitário\Exercício 4 - Teste de Controle de Inventário\Exercicio4\obj\Debug\net8.0\Exercicio4.genruntimeconfig.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\2.02 - Exercício de teste unitário\Exercício 4 - Teste de Controle de Inventário\Exercicio4\obj\Debug\net8.0\ref\Exercicio4.dll

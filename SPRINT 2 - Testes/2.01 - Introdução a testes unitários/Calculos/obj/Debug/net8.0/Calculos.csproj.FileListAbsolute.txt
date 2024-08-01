@@ -1,0 +1,30 @@
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\Calculos\bin\Debug\net8.0\Calculos.exe
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\Calculos\bin\Debug\net8.0\Calculos.deps.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\Calculos\bin\Debug\net8.0\Calculos.runtimeconfig.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\Calculos\bin\Debug\net8.0\Calculos.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\Calculos\bin\Debug\net8.0\Calculos.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\Calculos\obj\Debug\net8.0\Calculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\Calculos\obj\Debug\net8.0\Calculos.AssemblyInfoInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\Calculos\obj\Debug\net8.0\Calculos.AssemblyInfo.cs
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\Calculos\obj\Debug\net8.0\Calculos.csproj.CoreCompileInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\Calculos\obj\Debug\net8.0\Calculos.sourcelink.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\Calculos\obj\Debug\net8.0\Calculos.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\Calculos\obj\Debug\net8.0\refint\Calculos.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\Calculos\obj\Debug\net8.0\Calculos.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\Calculos\obj\Debug\net8.0\Calculos.genruntimeconfig.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\Calculos\obj\Debug\net8.0\ref\Calculos.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\2.01 - Introdução a testes unitários\Calculos\bin\Debug\net8.0\Calculos.exe
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\2.01 - Introdução a testes unitários\Calculos\bin\Debug\net8.0\Calculos.deps.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\2.01 - Introdução a testes unitários\Calculos\bin\Debug\net8.0\Calculos.runtimeconfig.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\2.01 - Introdução a testes unitários\Calculos\bin\Debug\net8.0\Calculos.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\2.01 - Introdução a testes unitários\Calculos\bin\Debug\net8.0\Calculos.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\2.01 - Introdução a testes unitários\Calculos\obj\Debug\net8.0\Calculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\2.01 - Introdução a testes unitários\Calculos\obj\Debug\net8.0\Calculos.AssemblyInfoInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\2.01 - Introdução a testes unitários\Calculos\obj\Debug\net8.0\Calculos.AssemblyInfo.cs
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\2.01 - Introdução a testes unitários\Calculos\obj\Debug\net8.0\Calculos.csproj.CoreCompileInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\2.01 - Introdução a testes unitários\Calculos\obj\Debug\net8.0\Calculos.sourcelink.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\2.01 - Introdução a testes unitários\Calculos\obj\Debug\net8.0\Calculos.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\2.01 - Introdução a testes unitários\Calculos\obj\Debug\net8.0\refint\Calculos.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\2.01 - Introdução a testes unitários\Calculos\obj\Debug\net8.0\Calculos.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\2.01 - Introdução a testes unitários\Calculos\obj\Debug\net8.0\Calculos.genruntimeconfig.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\2.01 - Introdução a testes unitários\Calculos\obj\Debug\net8.0\ref\Calculos.dll

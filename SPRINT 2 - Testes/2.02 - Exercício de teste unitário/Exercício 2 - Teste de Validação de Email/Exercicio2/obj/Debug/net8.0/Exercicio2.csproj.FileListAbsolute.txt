@@ -1,0 +1,30 @@
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\Exercicio2\bin\Debug\net8.0\Exercicio2.exe
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\Exercicio2\bin\Debug\net8.0\Exercicio2.deps.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\Exercicio2\bin\Debug\net8.0\Exercicio2.runtimeconfig.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\Exercicio2\bin\Debug\net8.0\Exercicio2.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\Exercicio2\bin\Debug\net8.0\Exercicio2.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\Exercicio2\obj\Debug\net8.0\Exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\Exercicio2\obj\Debug\net8.0\Exercicio2.AssemblyInfoInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\Exercicio2\obj\Debug\net8.0\Exercicio2.AssemblyInfo.cs
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\Exercicio2\obj\Debug\net8.0\Exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\Exercicio2\obj\Debug\net8.0\Exercicio2.sourcelink.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\Exercicio2\obj\Debug\net8.0\Exercicio2.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\Exercicio2\obj\Debug\net8.0\refint\Exercicio2.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\Exercicio2\obj\Debug\net8.0\Exercicio2.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\Exercicio2\obj\Debug\net8.0\Exercicio2.genruntimeconfig.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\Exercicio2\obj\Debug\net8.0\ref\Exercicio2.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\2.02 - Exercício de teste unitário\Exercício 2 - Teste de Validação de Email\Exercicio2\bin\Debug\net8.0\Exercicio2.exe
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\2.02 - Exercício de teste unitário\Exercício 2 - Teste de Validação de Email\Exercicio2\bin\Debug\net8.0\Exercicio2.deps.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\2.02 - Exercício de teste unitário\Exercício 2 - Teste de Validação de Email\Exercicio2\bin\Debug\net8.0\Exercicio2.runtimeconfig.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\2.02 - Exercício de teste unitário\Exercício 2 - Teste de Validação de Email\Exercicio2\bin\Debug\net8.0\Exercicio2.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\2.02 - Exercício de teste unitário\Exercício 2 - Teste de Validação de Email\Exercicio2\bin\Debug\net8.0\Exercicio2.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\2.02 - Exercício de teste unitário\Exercício 2 - Teste de Validação de Email\Exercicio2\obj\Debug\net8.0\Exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\2.02 - Exercício de teste unitário\Exercício 2 - Teste de Validação de Email\Exercicio2\obj\Debug\net8.0\Exercicio2.AssemblyInfoInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\2.02 - Exercício de teste unitário\Exercício 2 - Teste de Validação de Email\Exercicio2\obj\Debug\net8.0\Exercicio2.AssemblyInfo.cs
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\2.02 - Exercício de teste unitário\Exercício 2 - Teste de Validação de Email\Exercicio2\obj\Debug\net8.0\Exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\2.02 - Exercício de teste unitário\Exercício 2 - Teste de Validação de Email\Exercicio2\obj\Debug\net8.0\Exercicio2.sourcelink.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\2.02 - Exercício de teste unitário\Exercício 2 - Teste de Validação de Email\Exercicio2\obj\Debug\net8.0\Exercicio2.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\2.02 - Exercício de teste unitário\Exercício 2 - Teste de Validação de Email\Exercicio2\obj\Debug\net8.0\refint\Exercicio2.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\2.02 - Exercício de teste unitário\Exercício 2 - Teste de Validação de Email\Exercicio2\obj\Debug\net8.0\Exercicio2.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\2.02 - Exercício de teste unitário\Exercício 2 - Teste de Validação de Email\Exercicio2\obj\Debug\net8.0\Exercicio2.genruntimeconfig.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 2 - Testes\2.02 - Exercício de teste unitário\Exercício 2 - Teste de Validação de Email\Exercicio2\obj\Debug\net8.0\ref\Exercicio2.dll
