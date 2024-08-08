@@ -1,0 +1,15 @@
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 3 - Preparatório Processo Seletivo\2024-08-07 Exercícios de lógica de programação\Exercício 2\bin\Debug\net8.0\Exercício 2.exe
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 3 - Preparatório Processo Seletivo\2024-08-07 Exercícios de lógica de programação\Exercício 2\bin\Debug\net8.0\Exercício 2.deps.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 3 - Preparatório Processo Seletivo\2024-08-07 Exercícios de lógica de programação\Exercício 2\bin\Debug\net8.0\Exercício 2.runtimeconfig.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 3 - Preparatório Processo Seletivo\2024-08-07 Exercícios de lógica de programação\Exercício 2\bin\Debug\net8.0\Exercício 2.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 3 - Preparatório Processo Seletivo\2024-08-07 Exercícios de lógica de programação\Exercício 2\bin\Debug\net8.0\Exercício 2.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 3 - Preparatório Processo Seletivo\2024-08-07 Exercícios de lógica de programação\Exercício 2\obj\Debug\net8.0\Exercício 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 3 - Preparatório Processo Seletivo\2024-08-07 Exercícios de lógica de programação\Exercício 2\obj\Debug\net8.0\Exercício 2.AssemblyInfoInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 3 - Preparatório Processo Seletivo\2024-08-07 Exercícios de lógica de programação\Exercício 2\obj\Debug\net8.0\Exercício 2.AssemblyInfo.cs
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 3 - Preparatório Processo Seletivo\2024-08-07 Exercícios de lógica de programação\Exercício 2\obj\Debug\net8.0\Exercício 2.csproj.CoreCompileInputs.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 3 - Preparatório Processo Seletivo\2024-08-07 Exercícios de lógica de programação\Exercício 2\obj\Debug\net8.0\Exercício 2.sourcelink.json
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 3 - Preparatório Processo Seletivo\2024-08-07 Exercícios de lógica de programação\Exercício 2\obj\Debug\net8.0\Exercício 2.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 3 - Preparatório Processo Seletivo\2024-08-07 Exercícios de lógica de programação\Exercício 2\obj\Debug\net8.0\refint\Exercício 2.dll
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 3 - Preparatório Processo Seletivo\2024-08-07 Exercícios de lógica de programação\Exercício 2\obj\Debug\net8.0\Exercício 2.pdb
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 3 - Preparatório Processo Seletivo\2024-08-07 Exercícios de lógica de programação\Exercício 2\obj\Debug\net8.0\Exercício 2.genruntimeconfig.cache
+C:\Users\47417895867\Desktop\curso-tecnico-dev-s4\SPRINT 3 - Preparatório Processo Seletivo\2024-08-07 Exercícios de lógica de programação\Exercício 2\obj\Debug\net8.0\ref\Exercício 2.dll
