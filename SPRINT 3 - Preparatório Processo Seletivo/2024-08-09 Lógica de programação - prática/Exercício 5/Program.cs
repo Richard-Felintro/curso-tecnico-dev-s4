@@ -23,5 +23,5 @@ foreach (var item in quantidadeLetras)
 Console.WriteLine($"\nLETRA | QUANTIDADE\n------+-----------");
 foreach (var item in quantidadeLetras)
 {
-    Console.WriteLine($"  {item.letra}   | {item.quantidade}");
+    Console.WriteLine($"{item.letra}     | {item.quantidade}");
 }
