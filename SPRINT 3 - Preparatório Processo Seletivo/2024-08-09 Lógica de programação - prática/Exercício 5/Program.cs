@@ -12,8 +12,7 @@ for (var i = 0; i < 26; i++)
 
 Console.Clear();
 Console.Write($"Escreva um texto: ");
-string texto = Console.ReadLine()!;
-char[] list = texto.ToUpper().ToCharArray();
+char[] list = Console.ReadLine()!.ToUpper().ToCharArray();
 
 foreach (var item in quantidadeLetras)
 {
