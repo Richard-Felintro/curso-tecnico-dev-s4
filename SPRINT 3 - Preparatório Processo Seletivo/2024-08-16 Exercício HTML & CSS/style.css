@@ -225,13 +225,31 @@ footer {
   justify-content: space-between;
 }
 
-.upper-footer {
+.footer-column {
   display: flex;
   flex-direction: column;
   justify-content: space-evenly;
   align-items: center;
   height: 100%;
   padding: 15px;
+}
+
+.upper-footer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.upper-footer img {
+  height: 150px;
+}
+
+.img-right {
+  height: 150px;
+  -moz-transform: scale(-1, -1);
+  -o-transform: scale(-1, -1);
+  -webkit-transform: scale(-1, -1);
+  transform: scale(-1, -1);
 }
 
 footer h1 {
