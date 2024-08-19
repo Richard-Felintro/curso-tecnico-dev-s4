@@ -74,6 +74,7 @@ header button {
   height: 450px;
   background: #1e52b4;
   background: linear-gradient(90deg, #1e52b4 0%, #002777 100%);
+  padding-bottom: 45px;
 
   display: flex;
   flex-direction: row;
@@ -115,6 +116,10 @@ header button {
 
 /** ARTICLE SECTION **/
 
+.icone-pousada {
+  height: 150px;
+}
+
 .article-section {
   height: fit-content;
   background: white;
@@ -136,7 +141,7 @@ header button {
   font-family: Lato-Bold;
   text-decoration: none;
   color: #2e2636;
-  font-size: 18px;
+  font-size: 16px;
   line-height: 21.6px;
   text-align: left;
 }
@@ -154,7 +159,7 @@ header button {
   font-family: Lato-Regular;
   text-decoration: none;
   color: #33303e;
-  font-size: 15px;
+  font-size: 14px;
   line-height: 18px;
   text-align: left;
   width: 250px;
@@ -282,13 +287,13 @@ footer p {
   align-items: center;
 }
 
-/** :3 **/
+/** mewo **/
 .front-menu {
   position: relative;
   top: -40px;
   left: 12.5vw;
   background-color: white;
-  width: 75%;
+  width: 75vw;
   height: 80px;
   border-radius: 8px;
   display: flex;
@@ -298,24 +303,29 @@ footer p {
   box-shadow: 0 5px 10px 2px rgba(0, 0, 0, 0.25);
 }
 
-.front-menu hr{
+.front-menu hr {
   border: dashed 1px;
 }
 
-.front-menu a {
+.front-menu input {
   font-family: Lato-Regular;
   text-decoration: none;
-  color: #5F5C6B;
+  color: #5f5c6b;
   font-size: 15px;
   line-height: 18px;
   text-align: center;
   margin-left: 10px;
+  border: none;
+}
+
+.front-menu input:focus {
+  outline: none;
 }
 
 .front-menu p {
   font-family: Lato-Regular;
   text-decoration: none;
-  color: #FFFFFF;
+  color: #ffffff;
   font-size: 16px;
   line-height: 19.2px;
   text-align: center;
@@ -330,7 +340,124 @@ footer p {
 .front-menu button {
   width: 15vw;
   height: 45px;
-  background-color: #009C3B;
+  background-color: #009c3b;
   border: transparent;
   border-radius: 8px;
+}
+
+@media screen and (max-width: 768px) {
+  .link-b {
+    display: none;
+  }
+
+  header nav {
+    justify-content: center;
+  }
+  header button {
+    width: fit-content;
+    padding: 5px;
+  }
+
+  header img {
+    width: 1/3 vw;
+  }
+
+  header a {
+    margin: none;
+  }
+
+  .banner-section {
+    height: 40vh;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: start;
+  }
+
+  .banner-section h1 {
+    margin-top: 5vh;
+    width: 75vw;
+    font-size: 28px;
+  }
+
+  .banner-section p {
+    width: 75vw;
+    font-size: 16px;
+  }
+
+  .banner-section img {
+    display: none;
+  }
+
+  .banner-left {
+    width: 80vw;
+  }
+
+  .front-menu {
+    margin-right: 18.76px;
+    flex-direction: column;
+    left: 10vw;
+    height: 200px;
+  }
+
+  .front-menu button {
+    width: 40vw;
+  }
+
+  .row-div-big {
+    padding-right: 6.6vw;
+    flex-direction: column;
+    margin: none;
+    padding: none;
+  }
+
+  .article-section article {
+    margin-top: 0;
+  }
+
+  .article-section-b {
+    margin-top: 5vh;
+    margin-bottom: -5vh;
+  }
+
+  .article-section-b img {
+    display: none;
+  }
+
+  .article-section-b h1 {
+    width: 75vw;
+    font-size: 20px;
+    line-height: 24px;
+  }
+
+  .article-section-b h2 {
+    width: 75vw;
+    font-size: 16px;
+    line-height: 24px;
+  }
+
+  footer {
+    height: 150px;
+  }
+
+  .footer-column{
+    width: 100vw;
+    margin-right: 25px;
+  }
+
+  .upper-footer img {
+    display: none;
+  }
+
+  footer h1{
+    width: 80vw;
+    font-size: 18px;
+  }
+  footer p{
+    width: 80vw;
+    font-size: 15px;
+  }
+
+  .div-yellow {
+    padding-right: 25px;
+  }
 }
