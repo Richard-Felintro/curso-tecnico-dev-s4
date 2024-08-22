@@ -59,11 +59,18 @@
   border: solid #fcfcfc 2px;
   background-color: transparent;
 
-  padding: 5px;
+  padding: 5px 15px;
+  gap: 15px;
 
   display: flex;
   flex-direction: row;
   justify-content: space-between;
+  align-items: center;
+}
+
+.Search-Icon {
+  height: 20px;
+  width: 20px;
 }
 
 .Search-Input,
@@ -72,11 +79,16 @@
   color: #fcfcfc;
   font-size: 14px;
 
+  width: 100%;
+
   background-color: transparent;
   border: none;
   outline: none;
 }
 
+.Search-Input::placeholder {
+  text-align: right;
+}
 /** TASK ENTRIES **/
 
 .Task-Section {
@@ -86,7 +98,8 @@
   padding-top: 50px;
 }
 
-.Task-Box {
+.Task-Box,
+.Task-Box-Marked {
   width: 100%;
   height: 60px;
   border-radius: 8px;
@@ -96,47 +109,69 @@
   justify-content: flex-start;
   align-items: center;
 
-  padding: 0 15px;
   gap: 18px;
+  margin-top: 10px;
 
   background-color: #fcfcfc;
-  border: solid #3C424A 1px;
+  border: solid #3c424a 1px;
 }
 
+.Task-Box-Marked {
+  background-color: #6c45ce;
+}
+
+.Task-Text-Marked,
 .Task-Text {
   width: 100%;
-  font-family: OpenSans-Bold;
-  color: #25282C;
+  font-family: OpenSans-SemiBold;
+  color: #25282c;
   font-size: 15px;
 }
 
+.Task-Text-Marked {
+  color: #ffffff;
+}
+
+.Task-Button-Edit-Marked,
+.Task-Button-Check-Marked,
 .Task-Button-Check,
 .Task-Button-Edit {
   height: 34px;
   width: 34px;
   border-radius: 4px;
 
+  margin-left: 15px;
+
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-.Task-Button-Edit-Box{
+.Task-Button-Edit-Box {
   display: flex;
   justify-content: row;
-  
-  gap: 10px;
+  margin-right: 15px;
 }
 
-.Task-Button-Edit{
+.Task-Button-Edit {
   justify-self: flex-end;
-  background-color: transparent;
-  border: solid #1E123B 2px;
+  background-color: #fcfcfc;
+  border: solid #1e123b 2px;
 }
 
-.Task-Button-Check{
-  background-color: #BDA4FF;
-  border: solid #8758FF 1px;
+.Task-Button-Edit-Marked {
+  background-color: #6c45ce;
+  border: solid #ffffff 1px;
+}
+
+.Task-Button-Check {
+  background-color: #bda4ff;
+  border: solid #8758ff 1px;
+}
+
+.Task-Button-Check-Marked {
+  background-color: #1e123b;
+  border: solid #1e123b 1px;
 }
 
 /** NEW TASK BUTTON **/
@@ -161,6 +196,69 @@
 
 /** CREATE TASK MODAL **/
 
-.Create-Task-Modal {
-  
+.Modal {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  opacity: 0;
+  pointer-events: none;
+  background: transparent;
+  transition: all ease 1s;
+}
+
+.Modal-Box {
+  width: 90%;
+  height: 45vh;
+  border-radius: 8px;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  margin-bottom: 5px;
+  padding: 25px;
+  gap: 25px;
+
+  background-color: #1e123b;
+}
+
+.Modal-Title {
+  font-family: OpenSans-Bold;
+  color: #fcfcfc;
+  font-size: 24px;
+
+  text-align: center;
+}
+
+.Modal-Text-Area {
+  width: 80%;
+  height: 80%;
+  border-radius: 8px;
+
+  border: solid #fcfcfc 2px;
+  background-color: #1e123b;
+
+  padding: 15px;
+  font-family: OpenSans-Regular;
+  color: #ffffff;
+  font-size: 14px;
+
+  resize: none;
+}
+
+.Modal-Text-Area::placeholder {
+  font-family: OpenSans-Regular;
+  color: #ffffff;
+  font-size: 16px;
+}
+
+.Modal-Button {
+  width: 240px;
+  height: 60px;
+  border-radius: 8px;
+
+  border: solid #fcfcfc 2px;
+  background-color: #6c45ce;
 }
