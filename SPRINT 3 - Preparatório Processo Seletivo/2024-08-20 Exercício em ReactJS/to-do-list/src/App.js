@@ -109,7 +109,10 @@ function App() {
                         >
                           <img src={deleteWhite} />
                         </button>
-                        <button className="Task-Button-Edit-Marked">
+                        <button
+                          className="Task-Button-Edit-Marked"
+                          onClick={() => OpenEditModal(task)}
+                        >
                           <img src={editWhite} />
                         </button>
                       </div>
