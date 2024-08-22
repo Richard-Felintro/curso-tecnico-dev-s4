@@ -1,0 +1,166 @@
+.Background {
+  height: 100vh;
+  width: 100vw;
+
+  background-color: #8758ff;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Container {
+  width: 40vw;
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.Main-Box {
+  width: 100%;
+  height: 55vh;
+  border-radius: 8px;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  margin-bottom: 5px;
+  padding: 25px;
+  gap: 25px;
+
+  background-color: #1e123b;
+}
+
+.Title,
+.Title-Purple {
+  font-family: OpenSans-Bold;
+  color: #fcfcfc;
+  font-size: 24px;
+
+  text-align: center;
+
+  width: 50%;
+}
+
+.Title-Purple {
+  font-size: 28px;
+  color: #8758ff;
+}
+
+/** SEARCH FORM **/
+
+.Search-Input-Box {
+  width: 50%;
+  height: 30px;
+  border-radius: 8px;
+
+  border: solid #fcfcfc 2px;
+  background-color: transparent;
+
+  padding: 5px;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.Search-Input,
+.Search-Input::placeholder {
+  font-family: OpenSans-Regular;
+  color: #fcfcfc;
+  font-size: 14px;
+
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
+
+/** TASK ENTRIES **/
+
+.Task-Section {
+  width: 90%;
+  height: max-content;
+
+  padding-top: 50px;
+}
+
+.Task-Box {
+  width: 100%;
+  height: 60px;
+  border-radius: 8px;
+
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+
+  padding: 0 15px;
+  gap: 18px;
+
+  background-color: #fcfcfc;
+  border: solid #3C424A 1px;
+}
+
+.Task-Text {
+  width: 100%;
+  font-family: OpenSans-Bold;
+  color: #25282C;
+  font-size: 15px;
+}
+
+.Task-Button-Check,
+.Task-Button-Edit {
+  height: 34px;
+  width: 34px;
+  border-radius: 4px;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Task-Button-Edit-Box{
+  display: flex;
+  justify-content: row;
+  
+  gap: 10px;
+}
+
+.Task-Button-Edit{
+  justify-self: flex-end;
+  background-color: transparent;
+  border: solid #1E123B 2px;
+}
+
+.Task-Button-Check{
+  background-color: #BDA4FF;
+  border: solid #8758FF 1px;
+}
+
+/** NEW TASK BUTTON **/
+
+.New-Task-Button {
+  width: 180px;
+  height: 50px;
+  border-radius: 8px;
+
+  border: solid #fcfcfc 2px;
+  background-color: #6c45ce;
+
+  align-self: flex-end;
+  justify-self: flex-end;
+}
+
+.New-Task-Button-Text {
+  font-family: OpenSans-Bold;
+  color: #fcfcfc;
+  font-size: 17.75px;
+}
+
+/** CREATE TASK MODAL **/
+
+.Create-Task-Modal {
+  
+}
