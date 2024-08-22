@@ -15,6 +15,8 @@ function App() {
   const [taskTitle, setTaskTitle] = useState("");
   const [taskFilter, setTaskFilter] = useState("");
   const [taskToEdit, setTaskToEdit] = useState({});
+  const [weekDay, setWeekDay] = useState("");
+  const [month, setMonth] = useState("");
   const [tasks, setTasks] = useState([
     {
       id: 0,
@@ -24,7 +26,33 @@ function App() {
   ]);
 
   useEffect(() => {
-    console.log(tasks);
+    const today = new Date();
+    switch (today.getDay()) {
+      case 0:
+        setWeekDay("Domingo");
+        break;
+      case 1:
+        setWeekDay("Segunda-Feira");
+        break;
+      case 2:
+        setWeekDay("Terça-Feira");
+        break;
+      case 3:
+        setWeekDay("Quarta-Feira");
+        break;
+      case 4:
+        setWeekDay("Quinta-Feira");
+        break;
+      case 5:
+        setWeekDay("Sexta-Feira");
+        break;
+      default:
+        setWeekDay("Sábado");
+        break;
+    }
+    const m = new Date().toLocaleString("pt-BR", { month: "long" });
+    setMonth(m.charAt(0).toUpperCase() + m.slice(1));
+    console.log();
   }, [isModalOpen]);
 
   function ToggleTaskMark(id, newValue) {
@@ -74,7 +102,11 @@ function App() {
         <>
           <div className="Main-Box">
             <h1 className="Title">
-              Terça-Feira, <span className="Title-Purple">24</span> de Julho
+              {weekDay},{" "}
+              <span className="Title-Purple">
+                {new Date().toLocaleString("en-US", { day: "2-digit" })}
+              </span>{" "}
+              de {month}
             </h1>
             <div className="Search-Input-Box">
               <img className="Search-Icon" src={searchWhite} />
